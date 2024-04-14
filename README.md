@@ -1,7 +1,6 @@
 # Hotel Reservation System
+This is a simple Java application for managing hotel reservations. The system allows users to perform various actions such as reserving a room, viewing reservations, updating reservations, deleting reservations, and getting room numbers based on reservation IDs and guest names.
 <br>
-This is a simple Java application for managing hotel reservations. The system allows users to perform various actions such as reserving a room, viewing reservations, updating reservations, deleting reservations, and getting room numbers based on reservation IDs and guest names.<br>
-
 **Features**
 <br>
 •	Reservation: Users can reserve a room by providing guest name, room number, and contact number.<br>
