@@ -27,7 +27,7 @@ Setup Instructions
 
 Usage
 <br>
-Upon running the application, you will be presented with a menu of options.<br.
+Upon running the application, you will be presented with a menu of options.<br>
 Choose an option by entering the corresponding number.<br>
 Follow the prompts to perform the desired action.<br>
 To exit the application, select the "Exit" option.<br>
