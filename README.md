@@ -32,5 +32,6 @@ Choose an option by entering the corresponding number.<br>
 Follow the prompts to perform the desired action.<br>
 To exit the application, select the "Exit" option.<br>
 
-Contributor
-Rajesh Burnwal(https://github.com/Rajesh282000)
+Contributor<br>
+Rajesh Burnwal ( https://github.com/Rajesh282000 )
+ 
