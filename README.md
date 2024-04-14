@@ -3,6 +3,7 @@ Hotel Reservation System
 This is a simple Java application for managing hotel reservations. The system allows users to perform various actions such as reserving a room, viewing reservations, updating reservations, deleting reservations, and getting room numbers based on reservation IDs and guest names.
 
 Features
+<br>
 •	Reservation: Users can reserve a room by providing guest name, room number, and contact number.
 •	View Reservations: Users can view all current reservations along with reservation IDs, guest names, room numbers, contact numbers, and reservation dates.
 •	Update Reservations: Users can update existing reservations by providing the reservation ID. They can modify guest name, room number, and contact number.
@@ -17,6 +18,7 @@ Technologies Used
 5.	GitHub: Hosting service for software development projects.
 
 Setup Instructions
+<br>
 •	Clone the repository to your local machine.
 •	Make sure you have MySQL installed and running.
 •	Import the hotel_db.sql file to create the necessary database and tables.
@@ -24,6 +26,7 @@ Setup Instructions
 •	Compile and run the HotelReservationSystem.java file.
 
 Usage
+<br>
 Upon running the application, you will be presented with a menu of options.
 Choose an option by entering the corresponding number.
 Follow the prompts to perform the desired action.
