@@ -1,6 +1,6 @@
 # Hotel Reservation System
 <br>
-This is a simple Java application for managing hotel reservations. The system allows users to perform various actions such as reserving a room, viewing reservations, updating reservations, deleting reservations, and getting room numbers based on reservation IDs and guest names.
+This is a simple Java application for managing hotel reservations. The system allows users to perform various actions such as reserving a room, viewing reservations, updating reservations, deleting reservations, and getting room numbers based on reservation IDs and guest names.<br>
 
 **Features**
 <br>
@@ -33,5 +33,5 @@ Follow the prompts to perform the desired action.<br>
 To exit the application, select the "Exit" option.<br>
 
 Contributor<br>
-Rajesh Burnwal ( https://github.com/Rajesh282000 )
+Rajesh Burnwal (https://github.com/Rajesh282000)
  
